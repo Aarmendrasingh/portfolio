@@ -136,7 +136,7 @@ function App() {
               </a>
             </div>
             <button
-              onClick={() => window.open('/resume.pdf', '_blank')}
+              onClick={() => window.open('/Aarmendra_Singh.pdf', '_blank')}
               className="px-8 py-3 rounded-full bg-gradient-to-r from-teal-500 to-blue-500 text-white 
                 font-medium flex items-center gap-2 hover:opacity-90 transition-all hover:scale-105 animate-fade-right"
               style={{ animationDelay: '0.6s' }}
