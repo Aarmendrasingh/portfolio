@@ -43,7 +43,7 @@ export function About() {
               group-hover:opacity-75 transition duration-1000 animate-pulse"></div>
             <div className="relative rounded-xl overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80"
+                src="./jk4.jpg"
                 alt="Working on laptop"
                 className="w-full transform transition-transform duration-500 group-hover:scale-110"
               />
